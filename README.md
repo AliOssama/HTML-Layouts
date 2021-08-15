@@ -1,1 +1,1 @@
-Testing HTML Layouts using Floar and Clear.
+Testing HTML Layouts using Float and Clear.
